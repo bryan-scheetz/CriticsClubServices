@@ -1,0 +1,6 @@
+C:\Users\bryan\source\repos\CriticsClubServices\bin\CriticsClubServices.dll.config
+C:\Users\bryan\source\repos\CriticsClubServices\bin\CriticsClubServices.dll
+C:\Users\bryan\source\repos\CriticsClubServices\bin\CriticsClubServices.pdb
+C:\Users\bryan\source\repos\CriticsClubServices\obj\Debug\CriticsClubServices.dll
+C:\Users\bryan\source\repos\CriticsClubServices\obj\Debug\CriticsClubServices.pdb
+C:\Users\bryan\source\repos\CriticsClubServices\obj\Debug\CriticsClubServices.csprojAssemblyReference.cache
